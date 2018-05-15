@@ -1,3 +1,3 @@
-# cauko_svet
-Pokus (omyl?)
+
+Pokus
 Cauko, som Jan a o chvilu idem domov! 
