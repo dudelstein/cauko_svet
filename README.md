@@ -1,2 +1,2 @@
 # cauko_svet
-Pokus (omyl?)
+Pokus
